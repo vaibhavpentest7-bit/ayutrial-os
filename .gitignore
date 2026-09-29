@@ -1,0 +1,15 @@
+# ── Node / frontend ──────────────────────────────────────────────────────
+node_modules/
+dist/
+*.local
+
+# ── Python / backend ─────────────────────────────────────────────────────
+.venv/
+__pycache__/
+*.pyc
+ayutrial.db
+ayutrial_mongo.json
+
+# ── Scratch ──────────────────────────────────────────────────────────────
+.DS_Store
+*.log
